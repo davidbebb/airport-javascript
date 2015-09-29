@@ -9,8 +9,3 @@ Plane.prototype.land = function() {
 Plane.prototype.takeoff = function() {
   this.isFlying = true;
 };
-
-// Plane.prototype.play = function(song) {
-//   this.currentlyPlayingSong = song;
-//   this.isPlaying = true;
-// };
